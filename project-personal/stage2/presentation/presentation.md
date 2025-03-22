@@ -107,7 +107,7 @@ header-includes:
 :::
 ::: {/column width ="55%"}
 
-![](./image/3.png)
+![](./image/4.png)
 
 :::
 ::::::::::::::
