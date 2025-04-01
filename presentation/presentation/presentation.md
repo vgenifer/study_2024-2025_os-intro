@@ -120,7 +120,7 @@ header-includes:
 :::
 ::: {.column width="100%"}
 
-![](./image/2.jpeg)
+![](./image/2.png)
 
 :::
 ::::::::::::::
@@ -131,7 +131,7 @@ header-includes:
 :::
 ::: {.column width="100%"}
 
-![](./image/3.jpeg)
+![](./image/3.png)
 
 :::
 ::::::::::::::
@@ -147,7 +147,7 @@ header-includes:
 :::
 ::: {.column width="100%"}
 
-![](./image/4.jpeg)
+![](./image/4.png)
 
 :::
 ::::::::::::::
